@@ -37,20 +37,20 @@ Clone the project
 
 ## Website Flow
 
-- Signup & Login pages by Rovin and Deepanshu
+- Signup & Login pages 
 ![](./src//assets/LoginPage.png)
 
-- Homepage, Men & Women pages by Aakarsh
+- Homepage, Men & Women 
 ![](./src//assets/Menpage.png)
 
-- Product pages by Manish Singh
+- Product pages
 ![](./src//assets/ProductsPage.png)
 
-- Product Details & Cart pages by Saurav
+- Product Details & Cart 
 ![](./src//assets/ProductDetailsPage.png)
 ![](./src//assets/CartPage.png)
 
--  Checkout and Payment pages by Deepanshu
+-  Checkout and Payment 
 ![](./src//assets/CheckoutPage.png)
 ![](./src//assets/PaymentPage.png)
 
