@@ -33,10 +33,6 @@ VS Code
 
 Clone the project
 
-```bash
-#   https://github.com/aakarsh604/Asos-Clone
-#   run json server on local host on port 8080
-```
 
 
 ## Website Flow
@@ -58,13 +54,6 @@ Clone the project
 ![](./src//assets/CheckoutPage.png)
 ![](./src//assets/PaymentPage.png)
 
-## Authors
-
-- [Aakarsh](https://github.com/aakarsh604)
-- [Deepanshu Chug](https://github.com/DeepanshuChugh)
-- [Saurav Samui](https://github.com/sauravsamui)
-- [Manish Singh](https://github.com/ManishSingh64)
-- [Rovin Singh](https://github.com/rovin-singh)
 
 
 Live Link :  "https://papaya-tarsier-65f2d1.netlify.app/"
